@@ -38,3 +38,6 @@ Lower salary groups show higher attrition rates, suggesting compensation may inf
 
 Attrition is primarily driven by early-career employees, lower income levels, and job role type, particularly in Sales. 
 These findings suggest that onboarding, compensation strategy, and early engagement are critical areas for improving retention.
+
+
+![Dashboard](dashboard.png)
