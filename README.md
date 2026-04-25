@@ -40,4 +40,16 @@ Attrition is primarily driven by early-career employees, lower income levels, an
 These findings suggest that onboarding, compensation strategy, and early engagement are critical areas for improving retention.
 
 
-![Dashboard](dashboard.png)
+## 📊 KPI Overview
+
+This section presents the main HR metrics, including total employees, attrition rate, attrition count, and average income.
+
+![KPI Overview](kpi_overview.png)
+
+---
+
+## 🔍 Attrition Insights Dashboard
+
+This dashboard explores the key drivers of employee attrition, including overtime, job satisfaction, work-life balance, income groups, and tenure.
+
+![Attrition Insights](attrition_insights.png)
