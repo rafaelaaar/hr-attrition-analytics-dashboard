@@ -1,7 +1,9 @@
 HR Attrition Analytics Dashboard
+
 This project analyses employee attrition using HR data to identify key drivers of workforce turnover.
 ________________________________________
 Overview
+
 • Total employees: 1470
 • Attrition (employees who left the company): 237
 • Attrition rate (Attrition / Total employees × 100): 16%
@@ -9,6 +11,7 @@ Overview
 The dataset represents a snapshot of the workforce and does not include a time dimension, meaning attrition cannot be analysed over time.
 ________________________________________
 Key Insights
+
 1. Department Analysis
 Attrition is relatively balanced across departments: Sales accounts for 20% and Human Resources for 19%, while Research and Development shows the lowest rate at 13.8%.
 2. Job Role & Experience
