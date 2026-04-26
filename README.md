@@ -40,7 +40,7 @@ This suggests that compensation alone does not fully explain turnover. For Sales
 
 This section presents the main HR metrics, including total employees, attrition rate, attrition count, and average income.
 
-![KPI Overview](kpi.png)
+![KPI Overview](KPI.png)
 
 ---
 
@@ -48,4 +48,4 @@ This section presents the main HR metrics, including total employees, attrition 
 
 This dashboard explores the key drivers of employee attrition, including overtime, job satisfaction, work-life balance, income groups, and tenure.
 
-![Attrition Insights](attrition_analysis.png)
+![Attrition Insights](Attrition_analysis.png)
