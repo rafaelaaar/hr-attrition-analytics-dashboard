@@ -21,7 +21,7 @@ Key Insights
 1. Department Analysis
 Attrition is relatively balanced across departments: Sales accounts for 20% and Human Resources for 19%, while Research and Development shows the lowest rate at 13.8%.
 
-3. Job Role & Experience
+2. Job Role & Experience
 Sales Representatives show the highest attrition rate (42.1%), with a large proportion of employees under 30 years old (55%), suggesting higher turnover in entry-level positions. Managers and Directors (typically 40+ years old) show the lowest attrition rates.
 Within the Research and Development department, Laboratory Technicians account for the highest share of attrition (23.9%), with 63.6% having one year or less tenure in the company. Additionally, 50% of this role works overtime and 50% are under 30 years old.
 
