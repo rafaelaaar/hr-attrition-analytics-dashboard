@@ -27,7 +27,7 @@ Attrition is relatively balanced across departments: Sales accounts for 20% and 
 Sales Representatives show the highest attrition rate (42.1%), with a large proportion of employees under 30 years old (55%), suggesting higher turnover in entry-level positions. Managers and Directors (typically 40+ years old) show the lowest attrition rates.
 Within the Research and Development department, Laboratory Technicians account for the highest share of attrition (23.9%), with 63.6% having one year or less tenure in the company. Additionally, 50% of this role works overtime and 50% are under 30 years old.
 
-3.Age Distribution
+3. Age Distribution
 
 Employees under 30 exhibit the highest attrition rates (38.4%), reinforcing the pattern of higher turnover among early-career professionals.
 
