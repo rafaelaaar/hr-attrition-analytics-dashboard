@@ -11,23 +11,17 @@ ________________________________________
 Key Insights
 1. Department Analysis
 Attrition is relatively balanced across departments: Sales accounts for 20% and Human Resources for 19%, while Research and Development shows the lowest rate at 13.8%.
-________________________________________
 2. Job Role & Experience
 Sales Representatives show the highest attrition rate (42.1%), with a large proportion of employees under 30 years old (55%), suggesting higher turnover in entry-level positions. Managers and Directors (typically 40+ years old) show the lowest attrition rates.
 Within the Research and Development department, Laboratory Technicians account for the highest share of attrition (23.9%), with 63.6% having one year or less tenure in the company. Additionally, 50% of this role works overtime and 50% are under 30 years old.
-________________________________________
 3. Age Distribution
 Employees under 30 exhibit the highest attrition rates (38.4%), reinforcing the pattern of higher turnover among early-career professionals.
-________________________________________
 4. Job Satisfaction
 Lower levels of job satisfaction (39.2% in the [(very) dissatisfied] group) are associated with higher attrition, suggesting that employee engagement may play an important role in retention.
-________________________________________
 5. Work-Life Balance
 Despite moderate overall work-life balance levels (with 48.2% reporting being [(very) dissatisfied]), attrition remains significant, suggesting that work-life balance may help explain employee turnover, but is not the sole driver.
-________________________________________
 6. Tenure
 Attrition is highest during the early tenure period (0–5 years), with a significant decline after 10 years, suggesting that employees who remain longer tend to be more stable and engaged.
-________________________________________
 7. Income
 Lower salary groups show higher attrition rates (28.6%), suggesting that compensation may influence employee retention.
 ________________________________________
