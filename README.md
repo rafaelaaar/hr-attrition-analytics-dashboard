@@ -60,8 +60,8 @@ This section presents the main HR metrics, including total employees, attrition 
 
 ---
 
-## 🔍 Attrition Insights Dashboard
+## 🔍 Attrition Analysis Dashboard
 
 This dashboard explores the key drivers of employee attrition, including overtime, job satisfaction, work-life balance, income groups, and tenure.
 
-![Attrition Insights](Attrition_analysis.png)
+![Attrition Analysis](Attrition_analysis.png)
