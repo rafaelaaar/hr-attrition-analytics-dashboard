@@ -8,6 +8,8 @@ Overview
 | Attrition Count | 237 |
 | Attrition Rate | 16% |
 | Average Monthly Income | $6,500 |
+
+
 The dataset represents a snapshot of the workforce and does not include a time dimension, meaning attrition cannot be analysed over time.
 
 Key Insights
