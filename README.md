@@ -45,7 +45,8 @@ Tool: Power BI
 
 Calculated Columns (DAX)
 Created directly in the Employee table to segment data:
-daxAge Group = 
+dax
+Age Group = 
 SWITCH(
     TRUE(),
     Employee[Age] < 30, "Under 30",
@@ -53,14 +54,16 @@ SWITCH(
     Employee[Age] < 50, "40-49",
     "50+"
 )
-daxIncome Group = 
+dax
+Income Group = 
 SWITCH(
     TRUE(),
     Employee[MonthlyIncome] < 3000, "Low",
     Employee[MonthlyIncome] < 7000, "Medium",
     "High"
 )
-daxTenure Group = 
+dax
+Tenure Group = 
 SWITCH(
     TRUE(),
     Employee[YearsAtCompany] <= 1, "0-1 year",
@@ -70,14 +73,17 @@ SWITCH(
 )
 
 Measures (DAX)
-daxTotal Employees = 
+dax
+Total Employees = 
 COUNTROWS(Employee)
-daxAttrition Count = 
+dax
+Attrition Count = 
 CALCULATE(
     COUNTROWS(Employee),
     FILTER(Employee, Employee[Attrition] = "Yes")
 )
-daxAttrition Rate = 
+dax
+Attrition Rate = 
 DIVIDE(
     [Attrition Count],
     [Total Employees]
