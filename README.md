@@ -29,15 +29,16 @@ Attrition is highest during the early tenure period (0–5 years), with a signif
 7. Income
 Lower salary groups show higher attrition rates (28.6%), suggesting that compensation influences employee retention.
 
-📊 Conclusion
+Conclusion
+
 The data reveals an important pattern across entry-level roles (Job Level 1). While average salaries are relatively similar for entry-level positions, attrition rates vary significantly by role.
 
-Laboratory Technicians — average salary of $2,850 with 28% attrition
-Sales Representatives — lower average salary of $2,530 with the highest attrition rate at 42%
+Laboratory Technician: average salary of $2,850 with 28% attrition
+Sales Representatives: lower average salary of $2,530 with the highest attrition rate at 42%
 
 This suggests that compensation alone does not fully explain turnover. For Sales Representatives, improving entry-level salary may help reduce attrition, while for Laboratory Technicians, non-monetary factors such as working conditions and job environment are likely more important drivers of retention.
 
-🛠️ Data Preparation & Measures
+Data Preparation & Measures
 Dataset: IBM HR Analytics Employee Attrition & Performance
 Source: Kaggle
 Tool: Power BI
