@@ -97,14 +97,8 @@ Established relationships between dimension tables and the Employee fact table i
 This approach follows proper star schema data modelling principles
 
 
-📊 KPI Overview
-This section presents the main HR metrics, including total employees, attrition rate, attrition count, and average income.
-Show Image
 
-🔍 Attrition Analysis Dashboard
-This dashboard explores the key drivers of employee attrition, including overtime, job satisfaction, work-life balance, income groups, and tenure.
-Show Image
-## 📊 KPI Overview
+KPI Overview
 
 This section presents the main HR metrics, including total employees, attrition rate, attrition count, and average income.
 
@@ -112,7 +106,7 @@ This section presents the main HR metrics, including total employees, attrition 
 
 ---
 
-## 🔍 Attrition Analysis Dashboard
+Attrition Analysis Dashboard
 
 This dashboard explores the key drivers of employee attrition, including overtime, job satisfaction, work-life balance, income groups, and tenure.
 
